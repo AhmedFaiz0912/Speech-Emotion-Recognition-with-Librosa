@@ -1,0 +1,2 @@
+# Speech-Emotion-Recognition-with-Librosa
+Built a model using an MLPClassifier to recognize emotion from speech using sklearn and librosa, which is able to recognize emotion from sound files. Model was trained using three features: mfcc (Mel Frequency Cepstral Coecient, represents the short-term power spectrum of a sound), chroma (Pertains to the 12 dierent pitch classes), mel (Mel Spectrogram Frequency).
